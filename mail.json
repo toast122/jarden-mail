@@ -1,0 +1,19 @@
+{
+  "mail": [
+    {
+      "id": "welcome-2026",
+      "from": "The Gardener",
+      "title": "Welcome to your garden!",
+      "body": "Hello, and thank you for planting Jarden!\n\nHold <b>BLOOP</b> to make critters, grow your bonsai, and repot for Seeds when you're ready.\n\nThis mailbox is where news, events and gifts arrive. Here's a little something to start with.",
+      "date": "",
+      "expires": "",
+      "pinned": true,
+      "moonstones": 25,
+      "seeds": 0,
+      "dewMinutes": 0,
+      "decor": "",
+      "action": "",
+      "actionLabel": ""
+    }
+  ]
+}
